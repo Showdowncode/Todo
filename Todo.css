@@ -1,0 +1,11 @@
+#border1{
+    width: 600px;
+    height: 1200px;
+    border: 2px solid;
+    margin: auto;
+}
+
+#Title{
+    position: absolute;
+    right: 750px;
+}
